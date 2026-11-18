@@ -1,0 +1,25 @@
+{
+  "id": "neodex.taquin",
+  "name": "Taquin",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "description": "Le jeu de pièces à faire glisser, de 3 × 3 à 8 × 8 : remets dans l'ordre des chiffres, ton fond d'écran NeoDex ou ta propre image, à la souris (une ligne entière glisse d'un clic) ou aux flèches. Grilles toujours solubles, modèle visible en maintenant un bouton, numéros sur l'image en option ; record de coups et de temps pour chaque taille. Nouveau style pixel art, plateau à la taille de la fenêtre et sept images toutes prêtes en pixel art (paysages et animaux).",
+  "icon": "icon.png",
+  "entry": "index.js",
+  "view": "taquin",
+  "neobase": ">=4.0.0",
+  "type": "app",
+  "category": "Jeux",
+  "compatibility": [
+    "android"
+  ],
+  "syncMode": "progression",
+  "syncInfo": "Records de coups et de temps, et ton image.",
+  "mobile": true,
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [
+    "storage"
+  ]
+}
