@@ -1,9 +1,9 @@
 {
   "pluginId": "neodex.taquin",
   "repo": "NDesumeur/neodex-plugin-taquin-phone",
-  "version": "1.0.0",
-  "sha256": "6e7860546ebb4470df43549f8f9de6028fbf450c4d0e7314a8d3c5f5218a72f2",
-  "approvedAt": "2026-11-18T18:56:04.233Z",
+  "version": "1.0.1",
+  "sha256": "1ead3b0cf6d66d9699bb555ed43de348a92d6c21757eb0b98d3d52cd539239d3",
+  "approvedAt": "2026-11-19T23:26:38.330Z",
   "neobase": ">=4.0.0",
-  "signature": "apBK9LvMgLyFPCgU7XTyfWhGWdlODHjn273YJfKzbcmR8t/cMEfEu9nXOAHE1ZR0lJVuhMPp6VWEF5vN0fyRBg=="
+  "signature": "tU4D3hTftFbAERMVzrGcUDkTkijH49AQvhQRwQrWfgfWaz+SNqe95GmNfUU/bxX8i66YGTkH55mR3vDmwCvUDg=="
 }
